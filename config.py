@@ -1,4 +1,4 @@
-token = '940947743:AAGW8D_j42q6dImzqURHfcKiJaS_yQ1BYSw'
+token = '885760516:AAEjQvzf89OlPlwv6bzQ_T8IUNYTMcRnlHk'
 db_name = 'database.db'
-admin_id = [36950100, 865951058, 132634425, 740824495, 657845923, ]
-channel_id = -1001434042703
+admin_id = [677805757]
+channel_id = morosnya
